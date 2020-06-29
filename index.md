@@ -9,4 +9,6 @@ Hier ist eine Beschreibung des "Charakters" was auch immer ich da beschreiben so
 * noch ne Aufzählung
 * und noch eine weitere...
 
-> the is no spoon
+> there is no spoon
+
+<img src="https://img.pr0gramm.com/2015/12/14/66d65bbae51dab2a.png"/>
